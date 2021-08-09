@@ -1,6 +1,6 @@
 // Ex.1
 let a = 9;
-let b = 10;
+let b = 20;
 let cSQR = a*a + b*b;
 
 //Ex.2
