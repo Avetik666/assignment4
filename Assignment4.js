@@ -1,5 +1,5 @@
 // Ex.1
-let a = 7;
+let a = 9;
 let b = 10;
 let cSQR = a*a + b*b;
 
